@@ -1,4 +1,4 @@
-# employee-detail-curd-system
+# employee-detail-crud-system
 
 ## Description
 A simple Python-based project to store, add, update, and manage employee records using a CSV file.
